@@ -1,0 +1,6 @@
+.pytest_cache
+venv
+.idea
+
+*.pyc
+default_theme.json
